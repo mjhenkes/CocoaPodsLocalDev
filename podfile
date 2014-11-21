@@ -1,0 +1,7 @@
+
+platform :ios, '7.0'
+
+local_podfile = "Podfile.local"
+eval(File.open(local_podfile).read) if File.exist? local_podfile
+
+podspec

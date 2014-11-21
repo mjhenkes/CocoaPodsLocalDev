@@ -1,0 +1,1 @@
+pod 'AFNetworking', :git => "https://github.com/AFNetworking/AFNetworking.git", :branch => 'master'
