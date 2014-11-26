@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "CocoaPodsLocalDev"
-  s.version      = "0.0.1"
+  s.version      = "0.0.1-1"
   s.summary      = "A short description of CocoaPodsLocalDev."
   s.description  = <<-DESC
                    A longer description of CocoaPodsLocalDev in Markdown format.
