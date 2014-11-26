@@ -1,12 +1,4 @@
 
 platform :ios, '7.0'
 
-#local_podfile = "Podfile.local"
-#eval(File.open(local_podfile).read) if File.exist? local_podfile
-
-#podspec
-
-#pod 'AFNetworking', :git => "https://github.com/AFNetworking/AFNetworking.git", :branch => 'master'
-#pod 'AFNetworking', '~> 2.5'
-
-pod 'CocoaPodsLocalDev', :path => "./"#:git => "https://github.com/AFNetworking/AFNetworking.git", :tag => '2.0.0-RC1'
+pod 'CocoaPodsLocalDev', :path => "./"
